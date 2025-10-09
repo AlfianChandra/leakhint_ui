@@ -1,4 +1,4 @@
-import{f as a}from"./index-C6SCwDlM.js";import{B as s,M as r,c,o as g,g as d,m as l,r as h}from"./index-BTXWV-CB.js";var u=`
+import{f as a}from"./index-C_GORBOP.js";import{B as s,M as r,c,o as g,g as d,m as l,r as h}from"./index-D8_p-hOZ.js";var u=`
     .p-toggleswitch {
         display: inline-block;
         width: dt('toggleswitch.width');
